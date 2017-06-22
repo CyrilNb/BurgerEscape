@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">BurgerEscape</string>
+     <string name="PlayButton">Jouer</string>
+     <string name="ScoreButton">Score</string>
+     <string name="LeaveButton">Quitter</string>
+    <string name="ScoreTitle">Meilleur score</string>
+    <string name="Fleche">&lt;----</string>
+    <string name="Perdu">Perdu</string>
+    <string name="Score">Votre score : </string>
+    <string name="Rejouer">Rejouer</string>
+
+</resources>

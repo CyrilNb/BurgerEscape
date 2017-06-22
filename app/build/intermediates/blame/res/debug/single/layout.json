@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/build/intermediates/res/merged/debug/layout/loose.xml",
+        "source": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/src/main/res/layout/loose.xml"
+    },
+    {
+        "merged": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/build/intermediates/res/merged/debug/layout/mainview.xml",
+        "source": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/src/main/res/layout/mainview.xml"
+    },
+    {
+        "merged": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/build/intermediates/res/merged/debug/layout/score.xml",
+        "source": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/src/main/res/layout/score.xml"
+    }
+]

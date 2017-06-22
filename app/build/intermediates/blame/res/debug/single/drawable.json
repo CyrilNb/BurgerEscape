@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/build/intermediates/res/merged/debug/drawable/quitterbouton.xml",
+        "source": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/src/main/res/drawable/quitterbouton.xml"
+    },
+    {
+        "merged": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/build/intermediates/res/merged/debug/drawable/jouerbouton.xml",
+        "source": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/src/main/res/drawable/jouerbouton.xml"
+    },
+    {
+        "merged": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/build/intermediates/res/merged/debug/drawable/painbas.png",
+        "source": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/src/main/res/drawable/painbas.png"
+    },
+    {
+        "merged": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/build/intermediates/res/merged/debug/drawable/painhaut.png",
+        "source": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/src/main/res/drawable/painhaut.png"
+    },
+    {
+        "merged": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/build/intermediates/res/merged/debug/drawable/scorebouton.xml",
+        "source": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/src/main/res/drawable/scorebouton.xml"
+    },
+    {
+        "merged": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/build/intermediates/res/merged/debug/drawable/burger.png",
+        "source": "/Users/Cyril/Documents/Ressources/Android/BurgerEscape/app/src/main/res/drawable/burger.png"
+    }
+]

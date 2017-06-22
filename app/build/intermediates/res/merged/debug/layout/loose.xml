@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/Perdu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="124dp"
+        android:text="@string/Perdu"
+        android:textSize="@dimen/Loose" />
+
+    <TextView
+        android:id="@+id/Score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="34dp"
+        android:text="@string/Score"
+        android:textSize="@dimen/Title" />
+
+    <Button
+        android:id="@+id/Replay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Score"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="76dp"
+        android:text="@string/Rejouer"
+        android:onClick="onReplayClick" />
+
+    <TextView
+        android:id="@+id/ScoreDisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/Score"
+        android:layout_marginLeft="44dp"
+        android:layout_toRightOf="@+id/Score"
+        android:text=" " />
+
+    <Button
+        android:id="@+id/Leave2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Replay"
+        android:layout_alignBottom="@+id/Replay"
+        android:layout_alignLeft="@+id/ScoreDisplay"
+        android:text="@string/LeaveButton"
+        android:onClick="onLeaveClick" />
+
+</RelativeLayout>
